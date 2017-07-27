@@ -1,0 +1,2 @@
+# smsw
+Smart switcher
