@@ -1,3 +1,14 @@
 
 *.dch~
 *.dip~
+*.crf
+*.d
+*.o
+*.dbgconf
+*.multi
+*.htm
+*.lnp
+*.map
+*.sct
+*.dep
+*.lst
