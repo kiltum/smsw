@@ -1,0 +1,18 @@
+.AO4407A :1 ;30V P-Channel MOSFET
+SOIC127P600X175-8N
+*STM Q
+*NGS
+*PLB 1="S_1" 2="S_2" 3="S_3" 4="G" 5="D_1" 6="D_2" 7="D_3" 8="D_4"
+*MXP 8
+*DFN AO4407A
+~!Manufacturer_Name (Alpha & Omega Semiconductors)
+~!Manufacturer_Part_Number (AO4407A)
+~!Arrow Part Number (AO4407A)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ao4407a/alpha-and-omega-semiconductor)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Link Datasheet (http://aosmd.com/res/data_sheets/AO4407A.pdf)
+~!Height (1.75mm)
+~!3D_Model (AO4407A)
+AO4407A
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

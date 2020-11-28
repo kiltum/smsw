@@ -1,0 +1,9 @@
+Manufacturer=Alpha & Omega Semiconductors
+PartNumber=AO4407A
+PartCategory=Transistor
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2017-08-31 08:33:05
+Downloaded=2020-11-28 18:04:50
+3D=Y
